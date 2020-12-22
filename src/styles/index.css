@@ -1,0 +1,27 @@
+@font-face {font-family: "iconfont";
+    src: url('//at.alicdn.com/t/font_2071283_nw55c0dzzjp.eot?t=1600221674465'); /* IE9 */
+    src: url('//at.alicdn.com/t/font_2071283_nw55c0dzzjp.eot?t=1600221674465#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAOUAAsAAAAAB/AAAANGAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDBgqDTIMQATYCJAMMCwgABCAFhG0HQxvjBhHVm3PIfhymW4xbM4cR9+VI9fYdRKgrZ7U6vywHGMD2BQBaoD7ccwVUpnsIgM3N0FUvZIRiSc6D/2WZSSeEC+kPIw6njYmBzQfKaa5FURdgHFBAe2MUJVogCXrL4fDIHM+4DwE8VWiE9OozaBQOi71MAFk0f+50XMGM7agVHELQsNcix8jgzH7zBo5G35c/LcSBIaPYa4fN6T2Lbt+rfx+v2wq2TQoISMZzAuIhUKARYEGmNLrHoUm6EYrX1ba7NMAimLFiBQWR2FAGzh8eGAQkwK4uBEA9ojInJfHEmWY8lp51hwIQcBsVF4CH2PpSrNdpo1oNSpRY7w/cEdlexqew7ZYvMDV7xo0zZ8vOzR4sPTs5fepaKZ+WNh0Nc6KDt2Fb6ZBdRs/ejYrKzvGzkqiBVd7EDJFJG/2BVMSzLfbJmDKazR5MMJFEQkhxUppIt2fxQhPHEw+UmTMrPpBun8O9LR5DJ6xIYRvjuFm10odL7iuZL9UOVdP8xHC4lPe+LVRr92HJmQmP5tZ6Ve3V3Dq3559e+q11NbOlxN6JYw6V2lcqX4odVtmi60q1luJz6th5dUTalNynVM7DxgwxiebDMo/Cp+H9Y/cDYcJ2s9zTEoGhh+87rHxSDN4/PDSURE0Fg6aHYyaOd8aMKf6m+JgF82YXH+0LM+OUu3TG+fMBTz4Lt4TP3Bb3lGkAFPzWVMsA6HaT+wN/w98rtWpOLdrpv4ssAB/3nvgdhQt+W+AZhwFR8rskwB5ryGyLWk3siS2vMuzWUwbwhoafVA9Qgi/s3tKQOQUnSTAMOVSG4qhFtNRGyBDRCgGOrvA0pO/hiJKsQBEbAg3YjSAU4yEMRXgJpRhviZb6GRnK8A8BxUThGSMlz4zQ64g3PQVnxQ2WP/iVD3JtauLaO9qcZsnLIvYb5fIxaMq6nBvwQBljw/WxrSoBCe/Qo8cwJYZTOOCqpVM9u6qipheVK++FoafgrLgByx/wKx8UDFZT+fwdbU6zdHTVBd8olx8daCipAcRBfYC6ruWZ62NbVAkg4R3okROTk2bgbJ4VcNUSx5A8OyrSj6Dqcn7t/nyHAI+9VcWIiiVY6Tj/8Xb4W0aX52U+KC94FAUAAA==') format('woff2'),
+    url('//at.alicdn.com/t/font_2071283_nw55c0dzzjp.woff?t=1600221674465') format('woff'),
+    url('//at.alicdn.com/t/font_2071283_nw55c0dzzjp.ttf?t=1600221674465') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+    url('//at.alicdn.com/t/font_2071283_nw55c0dzzjp.svg?t=1600221674465#iconfont') format('svg'); /* iOS 4.1- */
+  }
+  
+  .iconfont {
+    font-family: "iconfont" !important;
+    font-size: 16px;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  .iconshouye:before {
+    content: "\e659";
+  }
+  
+  .iconicon_huabanfuben:before {
+    content: "\e621";
+  }
+  html{
+    background-color: #f7f7f7;
+  }
